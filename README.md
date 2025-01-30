@@ -51,7 +51,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/its-dhruv-jindal/Protect-Environment
+    git clone https://github.com/DhruvJDevev/Protect-Environment
     ```
 2. Navigate to the project directory:
     ```sh
